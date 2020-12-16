@@ -15,6 +15,7 @@
 - React.js
 - React Hooks
 - Youtube APIs(videos, search)
+- aws(s3)
 
 <br />
 
@@ -28,3 +29,8 @@
 #### 기능 구현
 - 인기 유튜브 영상 25개 메인 리스트 화면 구현
 - 검색엔진 구현
+
+<br />
+
+## 프로젝트 URL
+http://youtube-api-s3.s3-website.ap-northeast-2.amazonaws.com/
